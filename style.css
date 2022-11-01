@@ -1,0 +1,57 @@
+body{
+	background-color: #e6e6f0;
+}
+.professor_disciplina{
+	max-width: 100%;
+
+}
+.cadastro_professor{
+	max-width: 50%;
+	display: inline-block;
+	background-color: #dbdaf5;
+	padding: 1%;
+	margin: 1%;
+	border-width: 2px;
+	border-style: double;
+	border-color: ##2d2d6e;
+
+}
+.cadastro_disciplina{
+	max-width: 50%;
+	display: inline-block;
+	background-color: #dbdaf5;
+	padding: 1%;
+	margin: 1%;
+	border-width: 2px;
+	border-style: double;
+	border-color: ##2d2d6e;
+
+}
+
+.turma_aluno{
+	max-width: 100%;
+
+}
+
+.cadastro_turma{
+	max-width: 50%;
+	display: inline-block;
+	background-color: #9796ab;
+	padding: 1%;
+	margin: 1%;
+	border-width: 2px;
+	border-style: double;
+	border-color: ##2d2d6e;
+
+}
+.cadastro_aluno{
+	max-width: 50%;
+	display: inline-block;
+	background-color: #9796ab;
+	padding: 1%;
+	margin: 1%;
+	border-width: 2px;
+	border-style: double;
+	border-color: ##2d2d6e;
+
+}
